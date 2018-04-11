@@ -1,3 +1,6 @@
 # hello-world
 
-Hi, I'm rkd and I like to code. I like python, java, js, though I'm a newbie in all of them.
+Hi, I'm A.C.
+
+This is where I will put all files for all my freeCodeCamp projects.
+
